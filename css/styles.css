@@ -826,9 +826,9 @@ img {
 }
 .footer_inputt {
   display: flex;
+  gap: 24px;
 }
 .footer_label {
-  gap: 24px;
 }
 .footer_window {
   width: 264px;
@@ -845,4 +845,28 @@ img {
 }
 ::placeholder {
   color: #ffffff;
+}
+.footer_button {
+  border-radius: 4px;
+  background: var(--IRIS, #4d5ae5);
+  color: var(--WHITE, #fff);
+  text-align: center;
+  /* Button Text */
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px; /* 150% */
+  letter-spacing: 0.64px;
+  width: 165px;
+  height: 40px;
+  border-radius: 4px;
+  border: 1px solid var(--IRIS, #4d5ae5);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  padding-left: 24px;
+  padding-right: 24px;
 }

@@ -814,5 +814,19 @@ img {
   transform: translateY(0%);
 }
 .footer_input {
-  display: block;
+  padding-left: 80px;
+}
+.footer_acapit {
+  margin-bottom: 16px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+.footer_inputt {
+  display: flex;
+}
+.footer_label {
+  gap: 24px;
 }

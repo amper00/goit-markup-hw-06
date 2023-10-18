@@ -869,4 +869,7 @@ img {
   gap: 16px;
   padding-left: 24px;
   padding-right: 24px;
+  font-family: "Roboto", sans-serif;
+  cursor: pointer;
+  margin-left: 16px;
 }

@@ -813,3 +813,6 @@ img {
 .link:focus .portfolio_acapit {
   transform: translateY(0%);
 }
+.footer_input {
+  display: block;
+}

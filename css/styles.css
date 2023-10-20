@@ -880,15 +880,14 @@ img {
 }
 
 .acapit_modal {
- 
   margin-bottom: 16px;
   color: var(--NAVY-BLUE, #2e2f42);
- 
+
   font-family: Roboto;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
-  line-height: 1.5 /* 150% */
+  line-height: 1.5; /* 150% */
   letter-spacing: 0.02em;
-  text-align:center;
+  text-align: center;
 }

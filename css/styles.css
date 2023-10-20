@@ -900,4 +900,8 @@ img {
   line-height: 1.17;
   letter-spacing: 0.04em;
   color: var(--section-five);
+  margin-bottom: 4px;
+}
+.custom-input {
+  position: relative;
 }

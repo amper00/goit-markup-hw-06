@@ -891,3 +891,8 @@ img {
   letter-spacing: 0.02em;
   text-align: center;
 }
+.form {
+  margin-bottom: 8px;
+}
+.custom-label {
+}

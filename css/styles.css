@@ -953,3 +953,7 @@ img {
 {
   border-color: #4D5AE5; 
 }
+.comment-input-icon:focus
+{
+  border-color: #4D5AE5; 
+}

@@ -923,7 +923,16 @@ img {
 .custom-input-icon:focus{
   border-color: #4d5ae5;
 }
+.custom-input-icon:focus + .custom-svg{
+  border-color: #4d5ae5;
+  fill:#4d5ae5;
+}
+.custom-svg:hover,
+.custom-svg:focus
+{fill:#4d5ae5;}
+
 .custom-svg {
+  
   position: absolute;
   left: 16px;
   top: 50%;
@@ -956,4 +965,8 @@ img {
 .comment-input-icon:focus
 {
   border-color: #4D5AE5; 
+}
+.checked
+{
+  margin-bottom: 24px;
 }

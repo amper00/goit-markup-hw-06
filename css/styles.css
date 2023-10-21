@@ -927,6 +927,10 @@ img {
   border-color: #4d5ae5;
   fill:#4d5ae5;
 }
+.custom-input-icon:hover + .custom-svg{
+  border-color: #4d5ae5;
+  fill:#4d5ae5;
+}
 .custom-svg:hover,
 .custom-svg:focus
 {fill:#4d5ae5;}

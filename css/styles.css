@@ -971,6 +971,28 @@ img {
   border-color: #4D5AE5; 
 }
 .checked
-{
+{display: flex;
   margin-bottom: 24px;
+}
+.formal{
+  margin-bottom: 16px;
+}
+.visually-hidden
+{
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+.input-comment
+{
+
+}
+.label-comment
+{
+  display: block;
 }

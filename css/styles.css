@@ -12,6 +12,8 @@
   --background-colorrr: #2e2f42;
   --button-color: #e7e9fc;
   --section-five: #8e8f99;
+  --fill:#404bbf;
+  --fill-a:#F4F4FD;
 }
 .buttonn {
   cursor: pointer;
@@ -970,7 +972,7 @@ img {
 {
   border-color: #4D5AE5; 
 }
-.checked
+.custom-checkbox
 {display: flex;
   margin-bottom: 24px;
 }
@@ -1011,4 +1013,6 @@ transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1), border 250ms cu
 align-items: center;
 justify-content: center;
 fill: transparent;
+margin-right: 8px;
+
 }

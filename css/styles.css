@@ -1080,3 +1080,9 @@ line-height: 1.5;
 letter-spacing: 0.04em; 
 transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
+.input-comment:checked + .label-comment span
+{
+  background-color:var(--section-six);
+  border: none;
+  fill:var(--section-seven);
+}

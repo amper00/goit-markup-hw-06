@@ -980,7 +980,7 @@ img {
 .formal{
   margin-bottom: 16px;
 }
-/*.visually-hidden
+.visually-hidden
 {
   position: absolute;
   width: 1px;
@@ -991,7 +991,7 @@ img {
   clip: rect(0, 0, 0, 0);
   border: 0;
 }
-*/
+
 .input-comment
 {
 

@@ -660,7 +660,8 @@ img {
   background-color: var(--background-colorrr);
   padding: 100px 0;
 }
-.div_foot {
+.div_foot 
+{
   display: flex;
   align-items: baseline;
   justify-content: flex-start;
@@ -713,7 +714,9 @@ img {
   background-color: #31d0aa;
 }
 .footer-social-icons {
+  
   fill: var(--background-colorr);
+ 
 
 
 }
@@ -820,6 +823,7 @@ img {
   transform: translateY(0%);
 }
 .footer_input {
+ 
   padding-left: 80px;
 }
 .footer_acapit {
@@ -1085,4 +1089,11 @@ transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
   background-color:var(--section-six);
   border: none;
   fill:var(--section-seven);
+}
+.footer-social-iconss {
+  
+  fill: var(--background-colorr);
+ 
+margin-left: 16px;
+
 }

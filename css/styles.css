@@ -876,7 +876,7 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 16px;
+  
   padding-left: 24px;
   padding-right: 24px;
   font-family: "Roboto", sans-serif;
@@ -1081,7 +1081,7 @@ transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 .footer-social-iconss {
   
   fill: var(--background-colorr);
- 
-margin-left: 16px;
+margin-left: 16px; 
+
 
 }
